@@ -170,6 +170,9 @@ input {
   max-width: 100%;
   min-height: 480px;
 }
+#container {
+  padding-left: 100px;
+}
 
 .form-container {
   position: absolute;
